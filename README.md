@@ -11,7 +11,10 @@ cucumber,
 opencsv,
 
 ## Navegadores
+
+**Chrome, Edge, Firefox**
+
 Selecionar navegador na classe WebDriverLogic na package core.webdriver, metodo abrir navegador
 
-chrome driver versao 98
+Chrome driver versao 98
 
